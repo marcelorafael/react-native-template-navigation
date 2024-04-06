@@ -1,0 +1,22 @@
+React Native
+    rnfunc > Para criar um componente functional para o React Native.
+
+    rnclass > Para criar um class component.
+
+    rnstyled > Para criar um arquivo com Styled Components.
+
+React JS
+    rfunc > Para criar um componente functional para o ReactJS.
+
+    rclass > Para criar um class componente para o ReactJS.
+
+    rstyled > Para criar um arquivo com Styled Components para o React JS.
+
+    api > Cria a estrutura com Axios.
+
+Next JS
+    nrc > Cria componente Server Component Page
+
+    nget > Cria estrutura API route GET
+
+    npost > Cria estrutura API route POST

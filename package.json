@@ -1,0 +1,8 @@
+{
+    "name": "react-native-navigation",
+    "version": "0.0.1",
+    "description": "React Native simple template with Storybook and navigation",
+    "repository": "https://github.com/marcelorafael",
+    "author": "Marcelo Rafael <azevedomarcelo23@gmail.com>",
+    "license": "MIT"
+  }
